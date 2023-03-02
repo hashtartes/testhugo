@@ -1,0 +1,4 @@
+baseURL = 'https://hashtartes.github.io/testhugo/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme='hugo-coder'
